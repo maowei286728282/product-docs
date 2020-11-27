@@ -42,5 +42,10 @@
         "id": null,
         "name": "Apps",
         "localizedName": "云扩工作台"
+    },
+    {
+        "id": null,
+        "name": "Marketplace",
+        "localizedName": "云扩市场"
     }
 ]
