@@ -24,7 +24,7 @@
 1. 新建一个Excel文件，并在Sheet1的单元格C7和D7中分别设置背景色为黄色和黑色:
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/wps33.png)
 
-2. 拖入**打开/新建**组件，不勾选新建文件，再填入需要打开的Excel文件路径:
+2. 拖入**打开/新建**组件，不勾选新建文件，再填入需要打开的Excel文件路径：
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/wps5.png)
 
 3. 双击**打开/新建**组件，拖入2个**获取单元格背景色**组件，分别填写工作表和单元格位置，以及输出的颜色的变量:
